@@ -89,7 +89,7 @@ The light database and the command formats come from [NeewerLite](https://github
 
 ## Authorship
 
-Most of the code in this project was written by Claude, an AI model made by Anthropic, working from the developer's instructions. The developer directed the design, reviewed the changes and is responsible for the project. The code has not been tested on every Bluetooth light or Windows configuration, so review it and test it before relying on it.
+Some of the code in this project was written by Claude, an AI model. The code has not been tested on every Bluetooth light or Windows configuration, so review it and test it before relying on it.
 
 ## Disclaimer
 
